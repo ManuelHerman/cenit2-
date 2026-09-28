@@ -328,40 +328,40 @@ const logosMarcas = {
 };
 
 const fichasPorModelo = {
-    "TEC-5631": "/productos/cardiodesfibrilador-nihon-kohden-cardiolife-tec-5600",
-    "ECG-3150": "/productos/electrocardiografo-nihon-kohden-cardiofax-ecg-3150",
-    "AED-3100": "/productos/desfibrilador-dea-nihon-kohden-aed-3100",
-    "PVM-4763K": "/productos/monitor-nihon-kohden-vismo-pvm-4763",
-    "CSM-1502 / CU-152RK": "/productos/monitor-nihon-kohden-life-scope-g5",
-    "SVM-7603K": "/productos/monitor-nihon-kohden-svm-7603",
-    "SVM-7260K-T2": "/productos/monitor-neonatal-nihon-kohden-svm-7260",
-    "MEB-9600": "/productos/electromiografo-nihon-kohden-meb-9600",
-    "EEG-1200K": "/productos/electroencefalografo-nihon-kohden-neurofax-eeg-1200",
-    "IT-158-TS": "/productos/incubadora-transporte-fanem-it-158",
-    "2386": "/productos/incubadora-hibrida-fanem-duetto-2386",
-    "2286": "/productos/incubadora-fanem-vision-advanced-2286",
-    "1020": "/productos/reanimador-neonatal-fanem-babypuff-1020",
-    "5006 BSP": "/productos/fototerapia-fanem-bilitron-sky-5006",
-    "FDR MS-3500": "/productos/mamografo-fujifilm-amulet-innovality",
-    "TUS-AI800": "/productos/ecografo-canon-medical-aplio-i800",
-    "AceMobil 510": "/productos/equipo-rayos-x-movil-bemems-acemobil-510",
-    "MRXperion": "/productos/inyector-resonancia-bayer-medrad-mrxperion",
-    "MEDRAD Centargo": "/productos/inyector-contraste-bayer-medrad-centargo",
-    "PVT, PLT, PST y PLI": "/productos/transductores-canon-medical-aplio"
+    "TEC-5631": "/cenit2-/productos/cardiodesfibrilador-nihon-kohden-cardiolife-tec-5600.html",
+    "ECG-3150": "/cenit2-/productos/electrocardiografo-nihon-kohden-cardiofax-ecg-3150.html",
+    "AED-3100": "/cenit2-/productos/desfibrilador-dea-nihon-kohden-aed-3100.html",
+    "PVM-4763K": "/cenit2-/productos/monitor-nihon-kohden-vismo-pvm-4763.html",
+    "CSM-1502 / CU-152RK": "/cenit2-/productos/monitor-nihon-kohden-life-scope-g5.html",
+    "SVM-7603K": "/cenit2-/productos/monitor-nihon-kohden-svm-7603.html",
+    "SVM-7260K-T2": "/cenit2-/productos/monitor-neonatal-nihon-kohden-svm-7260.html",
+    "MEB-9600": "/cenit2-/productos/electromiografo-nihon-kohden-meb-9600.html",
+    "EEG-1200K": "/cenit2-/productos/electroencefalografo-nihon-kohden-neurofax-eeg-1200.html",
+    "IT-158-TS": "/cenit2-/productos/incubadora-transporte-fanem-it-158.html",
+    "2386": "/cenit2-/productos/incubadora-hibrida-fanem-duetto-2386.html",
+    "2286": "/cenit2-/productos/incubadora-fanem-vision-advanced-2286.html",
+    "1020": "/cenit2-/productos/reanimador-neonatal-fanem-babypuff-1020.html",
+    "5006 BSP": "/cenit2-/productos/fototerapia-fanem-bilitron-sky-5006.html",
+    "FDR MS-3500": "/cenit2-/productos/mamografo-fujifilm-amulet-innovality.html",
+    "TUS-AI800": "/cenit2-/productos/ecografo-canon-medical-aplio-i800.html",
+    "AceMobil 510": "/cenit2-/productos/equipo-rayos-x-movil-bemems-acemobil-510.html",
+    "MRXperion": "/cenit2-/productos/inyector-resonancia-bayer-medrad-mrxperion.html",
+    "MEDRAD Centargo": "/cenit2-/productos/inyector-contraste-bayer-medrad-centargo.html",
+    "PVT, PLT, PST y PLI": "/cenit2-/productos/transductores-canon-medical-aplio.html"
 };
 
 const fichasPorNombre = {
-    "Termocuna Ampla": "/productos/termocuna-fanem-ampla",
-    "Mamógrafo AMULET Sophinity": "/productos/mamografo-fujifilm-amulet-sophinity",
-    "Sistema de angiografía Alphenix": "/productos/angiografo-canon-medical-alphenix",
-    "Mesa radiográfica Canon Medical": "/productos/mesa-radiografica-canon-medical",
-    "Ultravist 300": "/productos/ultravist-300-uruguay",
-    "Ultravist 370": "/productos/ultravist-370-uruguay",
-    "Gadovist": "/productos/gadovist-uruguay",
-    "Primovist": "/productos/primovist-uruguay",
-    "Accesorios y consumibles Nihon Kohden": "/productos/insumos-originales-nihon-kohden",
-    "Neozime 5 L": "/productos/neozime-labnews-5-litros",
-    "Gel de ecografía Censonic": "/productos/gel-ecografia-censonic"
+    "Termocuna Ampla": "/cenit2-/productos/termocuna-fanem-ampla.html",
+    "Mamógrafo AMULET Sophinity": "/cenit2-/productos/mamografo-fujifilm-amulet-sophinity.html",
+    "Sistema de angiografía Alphenix": "/cenit2-/productos/angiografo-canon-medical-alphenix.html",
+    "Mesa radiográfica Canon Medical": "/cenit2-/productos/mesa-radiografica-canon-medical.html",
+    "Ultravist 300": "/cenit2-/productos/ultravist-300-uruguay.html",
+    "Ultravist 370": "/cenit2-/productos/ultravist-370-uruguay.html",
+    "Gadovist": "/cenit2-/productos/gadovist-uruguay.html",
+    "Primovist": "/cenit2-/productos/primovist-uruguay.html",
+    "Accesorios y consumibles Nihon Kohden": "/cenit2-/productos/insumos-originales-nihon-kohden.html",
+    "Neozime 5 L": "/cenit2-/productos/neozime-labnews-5-litros.html",
+    "Gel de ecografía Censonic": "/cenit2-/productos/gel-ecografia-censonic.html"
 };
 
 const parametros = new URLSearchParams(window.location.search);
